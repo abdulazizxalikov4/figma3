@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: #F6F7F1;
+}
+
+header a{
+    text-decoration: none;
+    color: black;
+}
